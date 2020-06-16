@@ -1,0 +1,27 @@
+.box{
+    box-sizing: border-box;
+}
+
+body{
+
+    background-color: black;
+color: white
+    
+}
+
+
+#title{
+    height: 50px;
+    background-color: black;
+    color: fuchsia;
+}
+
+
+#My-team{
+    color: fuchsia;
+    
+}
+
+#names{
+    color: fuchsia
+}
